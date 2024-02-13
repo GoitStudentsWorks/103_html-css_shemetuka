@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/exsclusive-start/",
+    "build": "vite build --base=/103_html-css_shemetuka/",
     "preview": "vite preview"
   },
   "devDependencies": {
